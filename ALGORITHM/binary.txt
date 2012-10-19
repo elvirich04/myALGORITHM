@@ -1,0 +1,5 @@
+[1, 2, 3, 4, 5]
+
+linear search->5 step
+binary search->3 steps
+dataset must be sorted

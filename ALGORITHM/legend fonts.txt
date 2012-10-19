@@ -1,0 +1,10 @@
+family="Helvitica"
+size=(integer)
+weight=tkinter.font.BOLD
+	tkinter.font.NORMAL
+slant=tkinter.font.ITALIC
+	tkinter.font.NORMAL
+underline=True
+	False
+overstrike=True
+	False

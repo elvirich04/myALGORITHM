@@ -1,0 +1,13 @@
+debug
+
+run
+open python shell
+open debug
+click debugger
+
+
+back to idle
+F5
+
+debugger
+step
